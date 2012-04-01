@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.alunny.amazing"
+	id		= "com.jonathanbruder.contact"
 	version 	= "1.0.0">
 
-	<name>alunnys Amazing App</name>
+	<name>Contact</name>
 
 	<description>
-		An Amazing app by alunny
+		A fast-paced touch puzzle game.
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://twitter.com/jonathanbruder"
+		email="jonathanbruder@gmail.com">
+		Jonathan Bruder
 	</author>
 
 	<gap:platforms>
